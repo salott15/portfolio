@@ -86,6 +86,10 @@ img {
 	padding-bottom: 15px;
 }
 
+#middle img {
+	width: 80%;
+}
+
 #contact {
 	float:right;
 }
