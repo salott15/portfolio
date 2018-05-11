@@ -99,3 +99,14 @@ img {
 	margin-left: 10px;
 	color: black;
 }
+
+@media (max-width: 767px){
+	h1 {
+		font-size: 60px;
+	}
+
+	h2 {
+		font-size:32px;
+	}
+}
+
