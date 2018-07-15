@@ -145,3 +145,8 @@ img {
 	}
 }
 
+@media (max-width: 600px){
+	nav {
+		font-size: 40px;
+	}
+}
